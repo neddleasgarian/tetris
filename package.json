@@ -1,0 +1,25 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "Tetris is a puzzle designed and programmed by Alexey Pajitnov in 1984, while he was working at the Dorodnicyn Computer Center at the USSR Academy of Sciences in Moscow. Its name comes from the Greek numeric prefix tetra, which has been built up with four parts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neddleasgarian/tetris.git"
+  },
+  "keywords": [],
+  "author": "Ryan ferdinan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neddleasgarian/tetris/issues"
+  },
+  "homepage": "https://github.com/neddleasgarian/tetris#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss-cli": "^8.2.0",
+    "tailwindcss": "^1.9.6"
+  }
+}
